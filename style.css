@@ -1,0 +1,31 @@
+.B1 {
+    border: 5px double gray;
+    padding: 50px;
+    background-color: aqua;
+    border-radius: 25px;
+    position: absolute;
+    text-align: center;
+    width: 40%;
+    left: 40%;
+    top: 40%;
+    right: 40%;
+
+}
+
+.B2 {
+
+    border: 5px dotted black;
+    padding: 50px;
+    background-color: yellowgreen;
+  
+
+}
+
+.B3 {
+    border: 5px solid green;
+    padding: 50px;
+    background-color: blue;
+    border-radius: 10px;
+    
+}
+
